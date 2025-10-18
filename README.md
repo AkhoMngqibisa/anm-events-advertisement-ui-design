@@ -23,3 +23,22 @@ The overall approach ensures the content is engaging without overwhelming the vi
 ## Preview
 - **Figma (view-only):** _link coming soon_
 - **Exported assets:** _to be added_
+
+## Repository Structure
+
+```
+/design
+└── ANM Events Business Advertisement Design.fig
+/assets
+└── exports (PNG / JPG)
+/README.md
+/index.html
+```
+
+## Usage
+This design is intended for **portfolio and showcase purposes**.  
+Please do not reuse or redistribute for commercial use without permission.
+
+## Author
+**Akhona Mngqibisa**  
+Software Developer  
